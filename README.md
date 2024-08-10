@@ -1,7 +1,7 @@
-Prosty watermark gdzie jest pokazane twoje id oraz godzina.
+**Prosty watermark gdzie jest pokazane twoje id oraz godzina.**
 
 
-Wygląd watermarka:
+*Wygląd watermarka:*
 
 
 
